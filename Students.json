@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "id": "123",
+            "email": "john@example.com",
+            "name": "John Doe"
+        },
+        {
+            "id": "124",
+            "email": "jane@example.com",
+            "name": "Jane Doe"
+        },
+        {
+            "id": "125",
+            "email": "renuka@example.com",
+            "name": "Jackie Doe"
+        },
+        {
+            "id": "150",
+            "email": "gauri@example.com",
+            "name": "Jackie Doe"
+        },
+        {
+            "id": "200",
+            "email": "raj@example.com",
+            "name": "Jackie Doe"
+        },
+        {
+            "id": "250",
+            "email": "sumit@example.com",
+            "name": "Jackie Doe"
+        }
+    ]
+}

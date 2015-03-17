@@ -1,0 +1,19 @@
+{
+"subjectId": 13,
+"subjectName": "Chemistry",
+"enrolledStudents": 
+	[
+		{
+			"id": "123",
+			"score": 345
+		},
+		{
+			"id": "124",
+			"score": 325
+		},
+		{
+			"id": "200",
+			"score": 239
+		}
+	]
+}
